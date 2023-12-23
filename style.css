@@ -1,0 +1,41 @@
+
+body{
+  margin: 0;
+  padding: 3rem;
+  background-image: url(christmasbk.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+  font-family: arial;
+  color: white;
+  background-color: #001D3F;
+  
+  
+}
+#numbers{
+  width: 100%;
+}
+button{
+  font-size: 55pz;
+  width:100%;
+}
+
+#code{
+  background-color: #fff;
+  color: #000;
+}
+
+.hide{
+  visibility: hidden;
+}
+
+.incorrect{
+  color: red;
+  font-style: italic;
+}
+.correct {
+  font-style: normal;
+  color: white;
+}
+
+
