@@ -20,6 +20,6 @@ function getCode() {
   else {
     document.getElementById("code").innerHTML = "&nbsp;";
     document.getElementById("message").className = "incorrect";
-    document.getElementById("message").innerHTML = "Incorrect Code Try again";
+    document.getElementById("message").innerHTML = "Incorrect Code Try again later";
   }
 }
