@@ -12,11 +12,11 @@ body{
 }
 
 main{
-margin: auto;
-width: 800px;
+   margin: auto;
+   width: 800px;
    background-image: url(christmasbk.jpg);
-  background-size: 1000px;
-  background-repeat: no-repeat; 
+ 
+   background-repeat: no-repeat; 
 }
 #numbers{
   background-color: white;
