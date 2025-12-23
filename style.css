@@ -9,11 +9,12 @@ body{
   font-family: arial;
   color: white;
   background-color: #001D3F;
-  
+  text-align: center;
   
 }
 #numbers{
-  max-width: 500px;
+  max-width: 800px;
+  
 }
 button{
   font-size: 55pz;
