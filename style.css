@@ -2,18 +2,24 @@
 body{
   margin: 0;
   padding: 3rem;
-  background-image: url(christmasbk.jpg);
-  background-size: 1000px;
-  background-repeat: no-repeat;
+
 
   font-family: arial;
   color: white;
   background-color: #001D3F;
-  text-align: center;
+  
   
 }
+
+main{
+margin: auto;
+width: 800px;
+   background-image: url(christmasbk.jpg);
+  background-size: 1000px;
+  background-repeat: no-repeat; 
+}
 #numbers{
-  max-width: 800px;
+  background-color: white;
   
 }
 button{
