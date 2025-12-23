@@ -13,7 +13,7 @@ body{
   
 }
 #numbers{
-  width: 100%;
+  max-width: 500px;
 }
 button{
   font-size: 55pz;
