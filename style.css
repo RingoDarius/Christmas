@@ -7,16 +7,16 @@ body{
   font-family: arial;
   color: white;
   background-color: #001D3F;
-  
+   background-image: url(christmasbk.jpg);
+ background-size: 100%;
+   background-repeat: no-repeat;
   
 }
 
 main{
    margin: auto;
    width: 800px;
-   background-image: url(christmasbk.jpg);
- 
-   background-repeat: no-repeat; 
+   
 }
 #numbers{
   background-color: white;
