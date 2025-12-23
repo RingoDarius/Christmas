@@ -11,7 +11,7 @@ function clearText() {
 function getCode() {
   var num = document.getElementById("code").innerHTML;
 
-  if (num == "&nbsp;6495") {
+  if (num == "&nbsp;8654") {
     document.getElementById("code").innerHTML = "";
     document.getElementById("numbers").className = "hide";
     document.getElementById("message").className = "correct";
