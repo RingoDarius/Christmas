@@ -13,6 +13,9 @@ body{
   
 }
 
+img{
+  max-width: 80%;
+}
 
 #numbers{
   background-color: white;
