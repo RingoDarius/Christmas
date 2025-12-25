@@ -15,7 +15,7 @@ function getCode() {
     document.getElementById("code").innerHTML = "";
     document.getElementById("numbers").className = "hide";
     document.getElementById("message").className = "correct";
-    document.getElementById("message").innerHTML = "<br><br><br><br>Look not to heaven—look in between,<br>What you seek is named in James 1:17.";
+    document.getElementById("message").innerHTML = "<br><br><br><br><img src = 'IMG_20251224_224212.jpg' alt = 'key'>";
   }
   else {
     document.getElementById("code").innerHTML = "&nbsp;";
